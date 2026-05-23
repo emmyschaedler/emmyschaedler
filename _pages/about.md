@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MSc Psychology Student | Social Cognition & Emotion | <a href='https://www.uni-mannheim.de/'>University of Mannheim</a>
 
 profile:
   align: right
